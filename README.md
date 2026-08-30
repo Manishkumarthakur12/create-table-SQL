@@ -7,6 +7,7 @@ abc name varchar (50) ,(--50 letter tak ka nameho skta)
 salary deimal(10,2)
 department varchar(50);
 
+
 phir table create
 ushme kuchh data insert
    insert into studets (abvid, abc name,department,salary)
@@ -22,6 +23,7 @@ ushme kuchh data insert
 
    show your data
    
+
 
 
 ALTER: 
