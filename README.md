@@ -3,9 +3,10 @@
 CREATE: 1st work create table
 create table students
 abc id INT primary key,                                         (--) ishko comment khte use one pr not run qureies)
-abc name varchar (50) ,(--50 letter tak ka nameho skta)
+abc name varchar (50) ,(--50 letter tak ka nameho skta) but not write these word  for remember
 salary deimal(10,2)
 department varchar(50);
+
 
 
 phir table create
@@ -23,6 +24,9 @@ ushme kuchh data insert
 
    show your data
    
+
+
+
 
 
 
